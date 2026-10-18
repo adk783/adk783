@@ -9,7 +9,6 @@ I build tools that automate real operations with LLMs, and I like working close 
 [![Portfolio](https://img.shields.io/badge/Portfolio-adk783.github.io-0A66C2?style=flat-square)](https://adk783.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-antdupuy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antdupuy/)
 [![Email](https://img.shields.io/badge/Email-antoine.dupuy01%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:antoine.dupuy01@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-555555?style=flat-square)](https://adk783.github.io/assets/Antoine-Dupuy-CV.pdf)
 
 ---
 
